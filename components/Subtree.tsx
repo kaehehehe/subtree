@@ -1,5 +1,9 @@
 import React from "react";
 
 export const Subtree = () => {
-  return <div>Component from Subtree</div>;
+  return (
+    <div>
+      <h1>hello world</h1>
+    </div>
+  );
 };
